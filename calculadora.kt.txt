@@ -1,0 +1,26 @@
+fun main() {
+	var numero1 = 2
+    var numero2 = 2
+    var resultado1 = numero1 + numero2
+    
+    println("el resultado de la suma es:")
+    println(resultado1)
+    
+    
+    var resultado2 = numero1 - numero2
+    
+    println("el resultado de la resta es:")
+    println(resultado2)
+    
+    var resultado3 = numero1 * numero2
+    
+    println("el resultado de la multiplicacion es:")
+    println(resultado3)
+       
+    var resultado4 = numero1 / numero2
+    
+    println("el resultado de la divicion es:")
+    println(resultado4)
+    
+    
+}
